@@ -1,0 +1,28 @@
+_repo: Woman-s-Endurance_16859
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Luckhoff, A. D. (August D.)
+    alias: Luckhoff, August D.
+    gutenberg_agent_id: '6976'
+    url: http://www.gutenberg.org/2009/agents/6976
+description: ''
+gutenberg_bookshelf: Boer War
+gutenberg_issued: '2005-10-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16859'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'South African War, 1899-1902 -- Concentration camps -- South Africa -- Bethulie'
+- !lcc 'DT'
+- !lcsh 'South African War, 1899-1902 -- Concentration camps -- South Africa -- Personal
+  narrativies'
+title: Woman's Endurance
+url: http://www.gutenberg.org/ebooks/16859
